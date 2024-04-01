@@ -1,0 +1,65 @@
+  tbody {
+width: 100%;
+height: 100vh;
+background: linear-gradient(to bottom right, #ff66b2, #8a2be2, #ff66b2);
+
+}
+html {
+width: 100%;
+height: 100vh;
+background: linear-gradient(to bottom right, #000000, #000000);
+
+                            }
+
+tablea {
+  width: 100%;
+  height: 100%;
+      border-collapse: collapse;
+      
+  }
+  
+  tbod {
+width: 100%;
+height: 100vh;
+background: linear-gradient(to bottom right, #ff66b2, #8a2be2, #ff66b2);
+
+}
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+tda {
+        width: 100%;
+        padding: 8px;
+        text-align: left;
+}
+
+    th {
+        background-color: #ffffff;
+        margin-bottom: 10px;
+    }
+
+    td:first-child {
+        padding-left: 20px; /* Add some padding to the first cell for indentation */
+    }
+nav {
+            background-color: #4bc2e6;
+            padding: 10px;
+  font-size: 0.8em;/* Add padding for better appearance */
+        }
+
+        nav a {
+            text-decoration: none;
+            color: white;
+          font-size: 1.5em; 
+          padding: 15px;
+          /* Change the color of the text if needed */
+        }

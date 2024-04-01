@@ -1,0 +1,31 @@
+html {
+width: 100%;
+height: 100vh;
+background: linear-gradient(to bottom, #ff66b2, #8a2be2, #ff66b2);
+}
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center all button containers */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Ensure buttons are evenly spaced */
+    margin-right: 5px; /* Adjust spacing between button containers */
+}
+
+.button-container:last-child {
+    margin-right: 0; /* Remove right margin for the last button container */
+}
+
+.button-container a img {
+    width: 100%; /* Make the images fill their containers */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Adjust the size of the last image */
+.button-container:last-child a img {
+  padding-left: 66px;
+    width: 60%; /* Adjust the width as needed */
+}
