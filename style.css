@@ -8,6 +8,7 @@
 body {
     font-family: 'Supercell-Magic', sans-serif; /* Apply the custom font to the body */
 }
+
 tbody {
 width: 100%;
 height: 100vh;
@@ -39,9 +40,12 @@ background: linear-gradient(to bottom right, #ff66b2, #8a2be2, #ff66b2);
         width: 100%;
         border-collapse: collapse;
         margin-top: 20px;
+      color: #ffffff;
+      font-size: 13px;
     }
 
     th, td {
+      
         border: 1px solid #ddd;
         padding: 8px;
         text-align: left;
@@ -53,7 +57,7 @@ tda {
 }
 
     th {
-        background-color: #ffffff;
+        background-color: #0084ff;
         margin-bottom: 10px;
     }
 
