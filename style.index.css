@@ -1,7 +1,7 @@
 html {
 width: 100%;
-height: 100vh;
-background: linear-gradient(to bottom, #ff66b2, #8a2be2, #ff66b2);
+height: 120%;
+background: linear-gradient(to bottom, #0095ff, #0ad100, #6600ff);
 }
 .buttons {
     display: flex;
@@ -29,6 +29,7 @@ background: linear-gradient(to bottom, #ff66b2, #8a2be2, #ff66b2);
   padding-left: 66px;
     width: 60%; /* Adjust the width as needed */
 }
+
 sticker {
-  padding-left: 23%;
+  
 }
