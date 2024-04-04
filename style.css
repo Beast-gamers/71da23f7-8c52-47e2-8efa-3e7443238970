@@ -12,7 +12,7 @@ body {
 tbody {
 width: 100%;
 height: 100vh;
-background: linear-gradient(to bottom right, #ff66b2, #8a2be2, #ff66b2);
+background: linear-gradient(to bottom, #0095ff, #0ad100, #6600ff);
 
 }
 html {
